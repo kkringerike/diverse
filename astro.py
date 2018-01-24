@@ -19,7 +19,7 @@ print(result)
 screen = turtle.Screen()
 screen.setup(1280,640)
 screen.setworldcoordinates(-180, -90, 180, 90)
-screen.bgpic("map.png")
+screen.bgpic("map.gif")
 
 location = turtle.Turtle()
 location.penup()
